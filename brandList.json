@@ -1,6 +1,6 @@
 [
 {
- "CostP":"600",
+ "CostP":"600.00",
  "GName":"SSD",
  "MSRP":"509.99",
  "PName":"K54D",
@@ -9,7 +9,7 @@
  "Description":"",
  "Brand":"Samsung"},
 {
- "CostP":"500",
+ "CostP":"500.00",
  "GName":"SSD",
  "MSRP":"599.99",
  "PName":"K28A",
@@ -18,7 +18,7 @@
  "Description":"Window 10, 15 touthscreen, An entirely new camara system, Intel core i7-6200U, inter HD griphics 520, 16GB DDR Memory, 265G SSD",
  "Brand":"Samsung"},
 {
- "CostP":"650",
+ "CostP":"650.00",
  "GName":"SSD",
  "MSRP":"509.99",
  "PName":"KD1S",
@@ -27,7 +27,7 @@
  "Description":"Window 10, 15 touthscreen, An entirely new camara system, Intel core i5-4700 processor, inter HD griphics 520, 1T, 128 GB Solid-state Drive",
  "Brand":"Samsung"},
 {
- "CostP":"550",
+ "CostP":"550.00",
  "GName":"SSD",
  "MSRP":"599.99",
  "PName":"X716A",
@@ -36,7 +36,7 @@
  "Description":"Window 10, 11 touthscreen, An entirely new camara system, Intel core i3, inter HD griphics 520, 16GB DDR Memory, 1000GB HDD,  128G SSD",
  "Brand":"Samsung"},
  {
-  "CostP":"800",
+  "CostP":"800.00",
  "GName":"SSD",
  "MSRP":"509.99",
  "PName":"I",
@@ -45,7 +45,7 @@
  "Description":"Fast meney speed, 8G Memory",
  "Brand":"Apple"},
 {
- "CostP":"700",
+ "CostP":"700.00",
  "GName":"SSD",
  "MSRP":"600",
  "PName":"II",
@@ -54,7 +54,7 @@
  "Description":"All -new dual 12Mp camera",
  "Brand":"Apple"},
 {
- "CostP":"850",
+ "CostP":"850.00",
  "GName":"SSD",
  "MSRP":"700",
  "PName":"III",
@@ -63,7 +63,7 @@
  "Description":"a new generation of ipad, the ipad 4 is designed with the most durable glass",
  "Brand":"Apple"},
 {
- "CostP":"750",
+ "CostP":"750.00",
  "GName":"SSD",
  "MSRP":"720",
  "PName":"IIII",
@@ -72,7 +72,7 @@
  "Description":"A new generation of ipad, the ipad 4 Plus is designed with the most durable glass",
  "Brand" : "Apple"},
 {
- "CostP":"890",
+ "CostP":"890.00",
  "GName":"SSD",
  "MSRP":"720",
  "PName":"G",
@@ -81,7 +81,7 @@
  "Description":"Window 10, 15 touthscreen, An entirely new camara system, Intel core i7-6200U, inter HD griphics 520, 8GB DDR Memory, 2 DiMMS for DDR4 265G SSD ",
  "Brand":"Dell"},
 {
- "CostP":"820",
+ "CostP":"820.00",
  "GName":"SSD",
  "MSRP":"760",
  "PName":"GG",
@@ -90,7 +90,7 @@
  "Description":"An entirely new camara system",
  "Brand":"Dell"},
 {
- "CostP":"860",
+ "CostP":"860.00",
  "GName":"SSD",
  "MSRP":"720",
  "PName":"GGG",
@@ -99,7 +99,7 @@
  "Description":"An entirely new camara system",
  "Brand":"Dell"},
 {
- "CostP":"810",
+ "CostP":"810.00",
  "GName":"SSD",
  "MSRP":"770",
  "PName":"GGGG",
@@ -108,7 +108,7 @@
  "Description":"An entirely new camara system",
  "Brand":"Dell"},
 {
- "CostP":"590",
+ "CostP":"590.00",
  "GName":"SSD",
  "MSRP":"640",
  "PName":"L",
@@ -117,7 +117,7 @@
  "Description":"An entirely new camara system",
  "Brand":"LG"},
 {
- "CostP":"580",
+ "CostP":"580.00",
  "GName":"SSD",
  "MSRP":"880",
  "PName":"LL",
@@ -126,7 +126,7 @@
  "Description":"An entirely new camara system",
  "Brand":"LG"},
 {
- "CostP":"6200",
+ "CostP":"620.00",
  "GName":"SSD",
  "MSRP":"480",
  "PName":"LLL",
@@ -135,7 +135,7 @@
  "Description":"An entirely new camara system",
  "Brand":"LG"},
 {
- "CostP":"690",
+ "CostP":"690.00",
  "GName":"SSD",
  "MSRP":"810",
  "PName":"LLLL",
